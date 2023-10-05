@@ -26,7 +26,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 *Answer:*
 
-**Question 4.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains.
+**Question 4.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains of Middle Earth.
 
 *Answer:*
 
