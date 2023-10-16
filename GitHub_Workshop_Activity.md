@@ -16,9 +16,10 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 1.** If you could be an animal for a day, which would you choose and why?
 
+penguin
+
 An animal that is better at computers than me. 
 
-*Answer:*
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
