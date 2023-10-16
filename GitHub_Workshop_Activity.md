@@ -23,7 +23,7 @@ An animal that is better at computers than me.
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
-*Answer:*
+*Answer:* Yes, a sub is a type of sandwich. However, not all sandwiches of subs
 
 **Question 3.** What is your go-to karaoke anthem?
 
