@@ -29,6 +29,8 @@ An animal that is better at computers than me.
 
 *Answer:*
 
+I'm 99% sure I have never done karaoke. 
+
 **Question 4.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains of Middle Earth.
 
 *Answer:*
